@@ -1,4 +1,4 @@
-# Washington AirBnB Economic Insight 📈
+# Washington D.C. AirBnB Economic Insight 📈
 
 ## Project Overview
 This project applies Economic principles to the AirBnB market in Washington D.C. By analyzing pricing, occupancy, and neighborhood data, this repository aims to uncover the "invisible hand" at work in the short-term rental market.
